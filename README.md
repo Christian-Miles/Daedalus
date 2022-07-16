@@ -1,6 +1,5 @@
 # Daedalus
 Open source paragliding design software written in Python
-
 ## Roadmap
 ### Basic features
 - [ ] Import airfoil
@@ -29,3 +28,8 @@ Open source paragliding design software written in Python
 - [ ] XFOIL integration
 - [ ] OPENFOAM integration
 - [ ] FEM Integration
+
+## Install
+- [ ] Install Python 3.6 or higher
+- [ ] Install Visual Studio Build Tools 2017
+- [ ] run `pip install -r requirements.txt`
